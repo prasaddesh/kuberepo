@@ -1,3 +1,0 @@
-# kuberepo
-Important Kubernetes stuff
-
